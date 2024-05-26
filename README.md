@@ -16,11 +16,17 @@ This script checks your internet connection 3 times in 15 minutes. If it's up, i
 ## Usage
 
 1. Clone this repository to your local machine.
+   ```
+   git clone 
+   ```
 2. Navigate to the directory.
+    ```
+    cd wikiopener
+    ```
 3. Run the script:
-'''
+   ```
     python wikiopener.py
-'''
+   ```
 ## Disclaimer
 
 Wikipedia isn't always perfect. Use this script to spark your curiosity, but always double-check important facts from reliable sources.

@@ -7,6 +7,7 @@ For the nerds who love diving into new things daily, this script might just be y
 ## Functionality
 
 This script checks your internet connection 3 times in 15 minutes. If it's up, it'll open a random Wikipedia page in Hebrew, alongside the main page.
+** This script is designed for Unix-like systems and may require adjustments to work on Windows. **
 
 ## Requirements
 
@@ -30,6 +31,7 @@ This script checks your internet connection 3 times in 15 minutes. If it's up, i
 ## Disclaimer
 
 Wikipedia isn't always perfect. Use this script to spark your curiosity, but always double-check important facts from reliable sources.
+Certainly! Here's a revised version:
 
 Happy nerding! 🤓📚
 

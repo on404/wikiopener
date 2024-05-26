@@ -17,7 +17,7 @@ This script checks your internet connection 3 times in 15 minutes. If it's up, i
 
 1. Clone this repository to your local machine.
    ```
-   git clone 
+   git clone https://github.com/on404/wikiopener.git
    ```
 2. Navigate to the directory.
     ```

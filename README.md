@@ -1,6 +1,5 @@
 # NerdScript
 
-## Introduction
 
 For the nerds who love diving into new things daily, this script might just be your cup of script.(If you're the type to power down your PC..) While Wikipedia isn't always the gold standard of accuracy, it's a fantastic launchpad for exploration.
 
